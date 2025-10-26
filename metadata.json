@@ -1,0 +1,5 @@
+{
+  "name": "Patient Health Portal",
+  "description": "A mobile application for patients to manage their health records, appointments, and prescriptions, fully integrated with the hospital management system.",
+  "requestFramePermissions": []
+}
